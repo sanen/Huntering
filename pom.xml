@@ -122,12 +122,12 @@
             <id>Codehaus repository</id>
             <url>http://repository.codehaus.org/</url>
         </pluginRepository>
-        <!--<pluginRepository>
+        <pluginRepository>
             <id>maven-db-plugin-repo</id>
             <name>maven db plugin repository</name>
             <url>https://maven-db-plugin.googlecode.com/svn/maven/repo</url>
             <layout>default</layout>
-        </pluginRepository>-->
+        </pluginRepository>
 
     </pluginRepositories>
 
